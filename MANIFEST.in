@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include taysir *.css
+recursive-include taysir *.csv
+recursive-include taysir *.html
+recursive-include taysir *.ico
+recursive-include taysir *.js
+recursive-include taysir *.json
+recursive-include taysir *.md
+recursive-include taysir *.png
+recursive-include taysir *.py
+recursive-include taysir *.svg
+recursive-include taysir *.txt
+recursive-exclude taysir *.pyc
