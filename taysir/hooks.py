@@ -6,6 +6,9 @@ app_email = "saidi.amine.p@gmail.com"
 app_license = "MIT"
 # required_apps = []
 
+app_include_css = "/assets/taysir/css/taysir.css"
+web_include_css = "/assets/taysir/css/taysir.css"
+
 # Includes in <head>
 # ------------------
 

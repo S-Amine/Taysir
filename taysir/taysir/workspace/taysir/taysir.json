@@ -1,0 +1,145 @@
+{
+ "charts": [
+  {
+   "chart_name": "Students",
+   "label": "Students"
+  }
+ ],
+ "content": "[{\"id\":\"BJTCWHkvJ1\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Taysir</span>\",\"col\":12}},{\"id\":\"J-sL7NfWFn\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"Total students\",\"col\":4}},{\"id\":\"OZZHR-oJBX\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"Active students\",\"col\":4}},{\"id\":\"Y8WBbS_Svv\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"Total teachers\",\"col\":4}},{\"id\":\"Db0D8c7qCn\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Students\",\"col\":12}},{\"id\":\"TPzQiYbT-5\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Students\",\"col\":4}},{\"id\":\"A8DlTko-iU\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"History\",\"col\":4}},{\"id\":\"QM_BwDHxDr\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Teachers\",\"col\":4}},{\"id\":\"vHwW8CTLD4\",\"type\":\"card\",\"data\":{\"card_name\":\"Community\",\"col\":6}},{\"id\":\"LQ2gJMWy0I\",\"type\":\"card\",\"data\":{\"card_name\":\"Utility\",\"col\":6}}]",
+ "creation": "2023-07-14 15:01:33.923496",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "heart-active",
+ "idx": 0,
+ "is_hidden": 0,
+ "label": "Taysir",
+ "links": [
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Community",
+   "link_count": 3,
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Student",
+   "link_count": 0,
+   "link_to": "Student",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Teacher",
+   "link_count": 0,
+   "link_to": "Teacher",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Student Parent",
+   "link_count": 0,
+   "link_to": "Student Parent",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Utility",
+   "link_count": 3,
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Class",
+   "link_count": 0,
+   "link_to": "Class",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Category",
+   "link_count": 0,
+   "link_to": "Category",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "History",
+   "link_count": 0,
+   "link_to": "History",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  }
+ ],
+ "modified": "2023-07-14 15:31:23.143912",
+ "modified_by": "Administrator",
+ "module": "Taysir",
+ "name": "Taysir",
+ "number_cards": [
+  {
+   "label": "Total students",
+   "number_card_name": "Total students"
+  },
+  {
+   "label": "Active students",
+   "number_card_name": "Active students"
+  },
+  {
+   "label": "Total teachers",
+   "number_card_name": "Total teachers"
+  }
+ ],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 1.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Students",
+   "link_to": "Student",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "History",
+   "link_to": "History",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Teachers",
+   "link_to": "Teacher",
+   "type": "DocType"
+  }
+ ],
+ "title": "Taysir"
+}
